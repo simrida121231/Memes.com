@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(782b7fc18a24ee997efd9a7f02fa4bf9-bg_08072019.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+
+.lol-line69{
+    border: none;
+    border-radius: 5px;
+    height: 55px;
+    width: 125px;
+    background-color: blueviolet;
+    color: white;
+    font-size: 25px;
+    margin-left: 850px;
+}
